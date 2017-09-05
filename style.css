@@ -1,0 +1,22 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.row {
+	text-align: center;
+}
+
+.headerT {
+	text-align: center;
+}
+
+.form {
+	text-align: left;
+}
+
+
